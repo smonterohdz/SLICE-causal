@@ -1,0 +1,9 @@
+Package: slicegm
+Version: 0.1
+Date: 2018-05-04
+Title: Structure Learning via Intervals of Causal Effects
+Description: A structure learning algorithm for identifying causal direction of undefined causal edges in causal graphical models.
+Author: Samuel Montero-Hernandez <samuel@inaoep.mx>, Felipe Orihuela-Espina <f.orihuela-espina@inaoep.mx>, Luis Enrique Sucar<esucar@inaoep.mx>
+Maintainer: Samuel Montero-Hernandez <samuel@inaoep.mx>
+License: GPL-3
+RoxygenNote: 6.0.1
